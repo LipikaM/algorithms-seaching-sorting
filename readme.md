@@ -1,0 +1,2 @@
+## This repository is created to cover implementation and revision of all sorting and searchng algorithms. 
+* This is a contineous updating repository and will contain all incremental development updates for deliveries.
